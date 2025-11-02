@@ -1,4 +1,7 @@
-/*Write a program to perform a linear search for finding a specific contact in a phone book and return the contact's details.*/
+/*Write a program to convert infix expressions to postfix and prefix notation using stacks. Given
+an infix expression as input, the system should efficiently convert it to postfix and prefix
+notations, considering operator precedence and parentheses. Implement functionalities to handle
+operators, operands, and parentheses while ensuring correct expression conversion.*/
 #include <iostream>
 #include <string>
 using namespace std;

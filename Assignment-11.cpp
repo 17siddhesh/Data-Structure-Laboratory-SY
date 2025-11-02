@@ -1,3 +1,7 @@
+/*Implement a basic student information system that utilizes hashing concepts to efficiently store and retrieve student records. The program should allow users to:
+Add new student records. 
+Retrieve student information by their unique student ID.
+*//
 #include <iostream>
 #include <string>
 using namespace std;

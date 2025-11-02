@@ -1,3 +1,5 @@
+/*Implement the AVL tree data structure to organize the contacts in the application. Design functions to add new contacts, search for contacts by name, phone number, or email address, and update contact information. Ensure that the AVL tree remains balanced and efficient as the number of contacts grows over time.
+Implement the AVL tree-based contact management system with functionalities to add, search, and update contacts efficiently. Ensure that the AVL tree remains balanced and optimized for quick search operations as the number of contacts increases.*/
 #include <iostream>
 #include <string>
 using namespace std;
